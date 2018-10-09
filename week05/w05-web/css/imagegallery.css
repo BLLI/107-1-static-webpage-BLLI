@@ -1,0 +1,27 @@
+.img{
+    width: 29%;
+    margin: 1.66%;
+}
+.img2{
+    width: 22%;
+    margin: 1%;
+}
+.img3{
+    width:15%;
+    margin: 1%;
+}
+hr{
+    border-top: 8px solid rgb(239,44,190);
+    border-bottom: 8px groove rgb(150,68,215);
+    border-left: 150px ridge rgb(0,0,0);
+    border-right: 150px solid rgb(0,0,0);
+}
+p{
+    text-transform: capitalize;
+    font-size: 50px;
+    letter-spacing: 10px;
+    margin: 2%;
+    padding-bottom: 5%;
+    border-bottom: 8px groove #f1f1f1;
+    width: 20%;
+}
