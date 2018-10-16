@@ -7,7 +7,7 @@
 * [*TKU60*](https://github.com/BLLI/107-1-static-webpage-BLLI/blob/master/week03/tku60.html)
 # week 4
 * [*TTT*](https://github.com/BLLI/107-1-static-webpage-BLLI/blob/master/week04/ttt.html)
--css
+- css
 ```css
 h1{
 
@@ -46,7 +46,7 @@ border-bottom: 1px solid #b229db;
 }
 ```
 * [*Blog*](https://github.com/BLLI/107-1-static-webpage-BLLI/blob/master/week04/blog.html)
--css
+*  -css
 ```css
 body{
 
@@ -98,5 +98,5 @@ border: 0.1px solid rgba(0,0,0,0.1);
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTk3MTAyMF19
+eyJoaXN0b3J5IjpbMTk4NjA4MzU1MF19
 -->
