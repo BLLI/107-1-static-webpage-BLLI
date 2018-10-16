@@ -2,6 +2,7 @@
 * [*intro.html*](https://github.com/BLLI/107-1-static-webpage-BLLI/blob/master/week01/intro.html)
 # week 2
 * [*Myclass*](https://github.com/BLLI/107-1-static-webpage-BLLI/blob/master/week02/Myclass.html)
+* css
 ```css
 h1{
 
@@ -46,5 +47,5 @@ border-bottom: 1px solid #b229db;
 * [*TTT*](https://github.com/BLLI/107-1-static-webpage-BLLI/blob/master/week04/ttt.html)
 * [*Blog*](https://github.com/BLLI/107-1-static-webpage-BLLI/blob/master/week04/blog.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1MTg4NTE4XX0=
+eyJoaXN0b3J5IjpbLTU0MTI0Mzg5N119
 -->
