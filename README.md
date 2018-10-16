@@ -6,8 +6,8 @@
 # week 3
 * [*TKU60*](https://github.com/BLLI/107-1-static-webpage-BLLI/blob/master/week03/tku60.html)
 # week 4
-* [*TTT*]()
-* [*Blog*]()
+* [*TTT*](https://github.com/BLLI/107-1-static-webpage-BLLI/blob/master/week04/ttt.html)
+* [*Blog*](https://github.com/BLLI/107-1-static-webpage-BLLI/blob/master/week04/blog.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTU4NDQ2NV19
+eyJoaXN0b3J5IjpbLTQwNDM5NTk3OV19
 -->
