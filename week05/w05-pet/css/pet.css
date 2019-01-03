@@ -1,37 +1,37 @@
-body{
+#pet body{
     background: url(../images/bg.jpg);
 }
-header{
+#pet header{
     font-family: Arial,Helvetica,sans-serif, 微軟正黑體;
     width: 800px;
     height: 80px;
     background-color: rgba(115, 16, 128, 0.79);
 }
-h1#text1{
+#pet h1#text1{
     position: absolute;
     margin-top:15px;
     margin-left:50px;
     color: #ff0033;
 }
-h1#text2{
+#pet h1#text2{
     position: absolute;
     margin-top: 30px;
     margin-left: 150px;
     color: aliceblue;
 }
-aside{
+#pet aside{
     width: 170px;
     height: 400px;
     background: url(../images/bg_lt.png);
     float: left
 }
-article{
+#pet article{
     width: 625px;
     height: 400px;
     margin-left: 175px;
     background-color: rgba(199, 134, 30, 0.67)
 }
-footer{
+#pet footer{
     width: 800px;
     height: 50px;
     background-color: rgba(115, 16, 128, 0.79);
@@ -39,14 +39,14 @@ footer{
     text-align: center;
     line-height: 50px;
 }
-nav{
+#pet nav{
     margin-top: 170px;
 }
-nav ul{
+#pet nav ul{
     padding: 10px;
     list-style: none;
 }
-nav ul li a{
+#pet nav ul li a{
     display: block;
     background-image: url(../images/btn.png);
     width: 150px;
@@ -54,25 +54,25 @@ nav ul li a{
     text-indent: 50px;
     line-height: 32px;
 }
-nav ul li a:hover{
+#pet nav ul li a:hover{
     background-image: url(../images/btn_hover.png);
     color: aliceblue;
 }
 
-fieldset{
+#pet fieldset{
     border-radius: 10px;
 }
 
-fieldset legend{
+#pet fieldset legend{
     text-align: center;
 }
 
-img{
+#pet img{
     width: 120px;
     border-radius: 15px;
     margin: 5px;
 }
-.consection{
+#pet .consection{
     width: 400px;
     margin: 0px auto;
     padding: 20px;
